@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PPC Documentación</title>
-    <link>http://example.org/tags/</link>
+    <link>https://rivascf.github.io/acedemo/tags/</link>
     <description>Recent content in Tags on PPC Documentación</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="https://rivascf.github.io/acedemo/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
